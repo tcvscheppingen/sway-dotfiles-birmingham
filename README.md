@@ -104,4 +104,4 @@ Every color in the Neovim colorscheme, Foot terminal, and Waybar bar is sampled 
 
 ## Credits
 
-Wallpaper: 18th-century watercolor river landscape.
+Wallpaper: [Birmingham Museums Trust](https://unsplash.com/@birminghammuseumstrust)
