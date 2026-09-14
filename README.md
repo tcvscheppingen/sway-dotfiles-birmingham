@@ -1,4 +1,4 @@
-# Sway Auto Rice - Birmingham Theme
+# Sway Auto Rice - Birmingham Art Theme
 
 This repo contains my dotfiles for Sway, Waybar, Neovim color theme and Foot terminal. The theme is built around a watercolor river landscape (`.sway/birmingham-art-wallpaper.jpg`): a cool, near-black background with a full spread of colors pulled from the painting's sky, water and foliage.
 
