@@ -4,7 +4,7 @@ This repo contains my dotfiles for Sway, Waybar, Neovim color theme and Foot ter
 
 The installation script is intended to be used with a fresh installation of Fedora Sway, but the dotfiles can be used without the script.
 
-![Birmingham theme wallpaper](.sway/birmingham-art-wallpaper.jpg)
+<img width="1920" height="1080" alt="2026-09-15T09:19:39,966314154+02:00" src="https://github.com/user-attachments/assets/18b7352e-2c74-4d96-a596-e72a771ad1bf" />
 
 ## Requirements
 - Sway
